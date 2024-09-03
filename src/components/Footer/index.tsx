@@ -73,7 +73,6 @@ const Footer = () => (
       </S.FooterSection>
       <p>{currentYear} - &copy; E-PLAY Todos os direitos reservados.</p>
       <br />
-      <p>made with ❤️ by SCHORCHI</p>
     </div>
   </S.Container>
 )
